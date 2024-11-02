@@ -1,37 +1,33 @@
 const profileData = {
   title: "Resume",
-  name: "Vipin Yadav",
-  sub_title: "Senior Software Engineer",
+  name: "Cornell Rochester",
+  sub_title: "Aream Manager II",
   logoURL: "assets/images/dp.jpg",
   about: {
-    intro: `Senior Software Engineer with 6 years of frontend development experience. Expert in building high-performance UI and seamless UX. Experienced in leading projects, migrating legacy systems, and creating reusable components. Skilled in A/B testing, cross-platform compatibility, and responsive design. Effective mentor and collaborator dedicated to continuous learning and innovation.`,
+    intro: `Experienced Manager with over 3 years of experience at Amazon, specializing in team leadership, operational efficiency, and performance improvement.Proven track record of managing and training teams of 3-30 associates across multiple departments through effective communication and positive reinforcement. I'm excited to transition into cloud computing, a field that is reshaping industries with its transformative potential. Having completed several cloud certifications, I am well-versed in core cloud concepts and practices, and I am driven to apply my expertise in project management and strategic execution to the cloud space. I look forward to leveraging my leadership experience and new technical skills to drive cloud-based solutions, enhance operational efficiencies, and support an organization’s digital transformation goal.`,
     contact: {
-      email: "imvpn22@gmail.com",
-      phone: "+91-9919716378",
-      address: "Bangalore, IN",
+      email: "cjrochester24@gmail.com",
+      phone: "+1-267-736-3160",
+      address: "Deptford, NJ",
     },
   },
   links: [
     {
       title: "LinkedIn",
-      src: "https://www.linkedin.com/in/imvpn22",
+      src: "https://www.linkedin.com/in/cj-rochester-1b19b5138/",
       iconClass: "fa-brands fa-linkedin-in",
     },
     {
       title: "Github",
-      src: "https://github.com/imvpn22",
+      src: "https://github.com/cjrochest",
       iconClass: "fa-brands fa-github",
     },
-    {
-      title: "Codepen",
-      src: "https://codepen.io/imvpn22",
-      iconClass: "fa-brands fa-codepen",
-    },
+    
   ],
   skills: [
     {
       title: "Languages",
-      value: "HTML5, CSS3, TypeScript, JavaScript",
+      value: "HTML5, CSS3, TypeScript, JavaScript, Python",
     },
     {
       title: "Frameworks/Libraries",
@@ -39,23 +35,24 @@ const profileData = {
     },
     {
       title: "Others",
-      value: "Git, Jenkins, AWS",
+      value: "Git, AWS",
+    },
+    {
+      title: "Others",
+      value: "Leadership experience, detail oriented, Time Management, Critical Thinking ",
     },
   ],
   experiences: [
     {
-      organization: "Gameskraft",
-      title: "Senior Software Engineer",
-      date: "Dec 2022 - Present",
+      organization: "Amazon",
+      title: "Area Manager ",
+      date: "April 2021 - Present",
       details: [
-        `As part of the <strong>RummyCulture App</strong> team, worked on the development of core features like <strong>TDS summary & certificate</strong>, <strong>game join & re-join flow</strong> improvements,
-        <strong>scorecard</strong>, <strong>withdrawal flow</strong>, <strong>user referral flow</strong>, and <strong>game bubble state</strong> optimizations.
-        I ensured end-to-end responsibility, focusing on <strong>pixel-perfect UI</strong>, smooth UX, user testing, <strong>A/B experiments</strong>, cross-platform compatibility,
-        and timely delivery.`,
-        `Implemented the <strong>FT/UX</strong> (First Time User Experience) flow, boosting day1 metrics of Registration to Add Cash and Registration to Cash Game by around <strong>5%</strong>.`,
-        `Integrated in-house <strong>help center SDK</strong>, offering self-help features like guided app core flows and callback scheduling for users, leading to a <strong>reduction in customer call volume</strong>.`,
-        `Initiated the standardization of a React-Native <strong>custom UI library</strong>, encompassing reusable components, utilities, higher-order components, hooks, and animations for versatile project needs.`,
-        `Addressed live issues such as App crashes, JS crashes, and ANRs using <strong>Sentry</strong> and <strong>Firebase Crashlytics</strong>. Mentored juniors through knowledge-sharing and code-review sessions to ensure bug-free code and optimal performance.`,
+        `Directly train and manage team of 3-30 associates between two different departments through effective communication and positive re-enforcement.`,
+        `Support 8 different Delivery Service Partner (DSP) owners by assisting them in short/long term planning to improve their performance through daily/weekly DSP Performance Review meetings.',
+        `Create mechanisms to improve process and efficiency while reducing cost `,
+        `Evaluate and report on operational efficiency, presenting financial information and effectiveness of programs to regional leadership `,
+        `Assist in hiring process to meet capacity needs throughout the year and peak season. `,
       ],
     },
     {
@@ -142,9 +139,9 @@ const profileData = {
   ],
   education: [
     {
-      alma: "FET, GKV, Haridwar",
-      duration: "2014 - 2018",
-      std: "B.Tech. (Computer Science & Engineering)",
+      alma: "Fairleigh Dickinson University, Madison, NJ",
+      duration: "2016 - 2020",
+      std: "B.S. (Business Adminstration)",
       score: "71.00%",
     },
     {
@@ -156,16 +153,14 @@ const profileData = {
   ],
   certifications: [
     {
-      desc: `<strong>Mobile Web Specialist Nanodegree</strong> by <strong>Udacity</strong>.
-      (<a target='_blank' rel='noreferrer' href='https://confirm.udacity.com/RLMHXAWZ'>https://goo.gl/RGRzVn</a>)`,
-      date: "May - Nov 2018",
+      desc: `<strong>AWS Certified Solutions Architect – Associate</strong> by <strong>AWS</strong>.
+      (<a target='_blank' rel='noreferrer' href='https://www.credly.com/badges/7c0d7392-f048-49cf-a438-58197bb52977/public_url'>https://goo.gl/RGRzVn</a>)`,
+      date: "November 2024",
     },
     {
-      desc: `<strong>Introduction to Modern Application Development</strong>, a MOOC by <em> NPTEL (IIT Madras)
-      and Hasura</em>. Ranked at <strong> top 10 percentile </strong> among more than 2500 candidates.
-       (<a target='_blank' rel='noreferrer' href='https://nptel.ac.in/noc/E_Certificate/linkedin/noc17-cs06/NPTEL17CS0626270067AN.jpg'>
-       https://goo.gl/X3HEdR</a>)`,
-      date: "Jan - Mar 2017",
+      desc: `<strong>AWS Certified Cloud Practitioner</strong> by <strong>AWS</strong>.
+      (<a target='_blank' rel='noreferrer' href='https://www.credly.com/badges/d1cb5f49-f52e-4f57-a914-cf0c4f6d08fa/public_url'>https://goo.gl/RGRzVn</a>)`,
+      date: "November 2024",
     },
   ],
   events: [],
